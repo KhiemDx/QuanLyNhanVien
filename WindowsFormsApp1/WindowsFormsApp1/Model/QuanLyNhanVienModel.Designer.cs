@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\Model\QuanLyNhanVienModel.edmx'. 
+﻿// T4 code generation is enabled for model 'E:\TTN\QLNS\QuanLyNhanVien\WindowsFormsApp1\WindowsFormsApp1\Model\QuanLyNhanVienModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
