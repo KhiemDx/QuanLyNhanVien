@@ -1,0 +1,259 @@
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.View.GioiThieu.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.ThemNhanVien.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.SuaNhanVien.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.TimKiemNhanVien.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.XoaNhanVien.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormNhanVien.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormPhongBan.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormDangNhap.resources
+C:\Users\DELL 5559\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormDangKy.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormDangKy.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormDangNhap.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormNhanVien.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormPhongBan.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.SuaNhanVien.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.ThemNhanVien.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.TimKiemNhanVien.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.XoaNhanVien.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.View.GioiThieu.resources
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\TTNhom\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormDangKy.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormDangNhap.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormNhanVien.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.FormPhongBan.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.SuaNhanVien.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.ThemNhanVien.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.TimKiemNhanVien.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.XoaNhanVien.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.View.GioiThieu.resources
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\BTL-k2n3\test\TTNhom_T6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
