@@ -161,11 +161,23 @@
     <Compile Include="Controller\FormDangNhap.Designer.cs">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controller\SuaNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controller\SuaNhanVien.Designer.cs">
+      <DependentUpon>SuaNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="Controller\ThemNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Controller\ThemNhanVien.Designer.cs">
       <DependentUpon>ThemNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\XoaNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controller\XoaNhanVien.Designer.cs">
+      <DependentUpon>XoaNhanVien.cs</DependentUpon>
     </Compile>
     <Compile Include="Model\NhanVien.cs">
       <DependentUpon>QuanLyNhanVienModel.tt</DependentUpon>
@@ -205,8 +217,14 @@
     <EmbeddedResource Include="Controller\FormDangNhap.resx">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Controller\SuaNhanVien.resx">
+      <DependentUpon>SuaNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Controller\ThemNhanVien.resx">
       <DependentUpon>ThemNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controller\XoaNhanVien.resx">
+      <DependentUpon>XoaNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

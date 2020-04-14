@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
-            Application.Run(new FormDangNhap());
+            Application.Run(new XoaNhanVien());
         }
     }
 }

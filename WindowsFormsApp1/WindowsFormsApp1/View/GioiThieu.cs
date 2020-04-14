@@ -54,10 +54,10 @@ namespace WindowsFormsApp1.View
 
         private void BtTimNV_Click(object sender, EventArgs e)
         {
-            TimKiemNhanVien timKiem = new TimKiemNhanVien();
-            this.Hide();
-            timKiem.ShowDialog();
-            this.Show();
+            //TimKiemNhanVien timKiem = new TimKiemNhanVien();
+            //this.Hide();
+            //timKiem.ShowDialog();
+            //this.Show();
         }
 
         private void BtThoat_Click(object sender, EventArgs e)
@@ -67,18 +67,18 @@ namespace WindowsFormsApp1.View
 
         private void nhânViênToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormNhanVien nv = new FormNhanVien();
-            this.Hide();
-            nv.ShowDialog();
-            this.Show();
+            //FormNhanVien nv = new FormNhanVien();
+            //this.Hide();
+            //nv.ShowDialog();
+            //this.Show();
         }
 
         private void phongBanToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormPhongBan pb = new FormPhongBan();
-            this.Hide();
-            pb.ShowDialog();
-            this.Show();
+            //FormPhongBan pb = new FormPhongBan();
+            //this.Hide();
+            //pb.ShowDialog();
+            //this.Show();
         }
 
         private void đăngKýTàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
