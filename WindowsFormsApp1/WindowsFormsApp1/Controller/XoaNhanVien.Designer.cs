@@ -270,7 +270,7 @@
             this.GrBThemNV.Size = new System.Drawing.Size(992, 272);
             this.GrBThemNV.TabIndex = 13;
             this.GrBThemNV.TabStop = false;
-            this.GrBThemNV.Text = "Thêm Nhân Viên";
+            this.GrBThemNV.Text = "Xóa nhân viên";
             // 
             // XoaNhanVien
             // 
