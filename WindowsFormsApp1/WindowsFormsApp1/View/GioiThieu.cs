@@ -96,5 +96,10 @@ namespace WindowsFormsApp1.View
             fmdn.ShowDialog();
             this.Close();
         }
+
+        private void trơGiupToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://trogiupqlns.blogspot.com/2020/04/tro-giup.html");
+        }
     }
 }
