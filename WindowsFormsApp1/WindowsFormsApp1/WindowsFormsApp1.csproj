@@ -161,6 +161,12 @@
     <Compile Include="Controller\FormDangNhap.Designer.cs">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controller\FormTimNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controller\FormTimNhanVien.Designer.cs">
+      <DependentUpon>FormTimNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="Controller\SuaNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -216,6 +222,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Controller\FormDangNhap.resx">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controller\FormTimNhanVien.resx">
+      <DependentUpon>FormTimNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Controller\SuaNhanVien.resx">
       <DependentUpon>SuaNhanVien.cs</DependentUpon>
