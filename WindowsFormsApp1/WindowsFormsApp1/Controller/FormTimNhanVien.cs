@@ -17,7 +17,7 @@ namespace WindowsFormsApp1.Controller
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection("server = DESKTOP-1HGH8ER\\SQLEXPRESS;database = QuanLyNhanVien; integrated security = SSPI");
+        SqlConnection con = new SqlConnection("server = DESKTOP-HDPIPIC;database = QuanLyNhanVien; integrated security = SSPI");
 
         private void label4_Click(object sender, EventArgs e)
         {

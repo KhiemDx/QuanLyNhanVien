@@ -174,6 +174,7 @@
             this.BtMenu.TabIndex = 15;
             this.BtMenu.Text = "Quay Lại Menu";
             this.BtMenu.UseVisualStyleBackColor = true;
+            this.BtMenu.Click += new System.EventHandler(this.BtMenu_Click);
             // 
             // BtXoa
             // 

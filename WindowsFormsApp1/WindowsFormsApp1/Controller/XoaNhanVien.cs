@@ -65,5 +65,10 @@ namespace WindowsFormsApp1.Controller
                 CbBoxPhong.SelectedValue = int.Parse(itemSelected.SubItems[5].Text);
             }
         }
+
+        private void BtMenu_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

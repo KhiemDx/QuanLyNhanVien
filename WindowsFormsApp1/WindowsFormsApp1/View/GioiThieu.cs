@@ -54,10 +54,10 @@ namespace WindowsFormsApp1.View
 
         private void BtTimNV_Click(object sender, EventArgs e)
         {
-            //TimKiemNhanVien timKiem = new TimKiemNhanVien();
-            //this.Hide();
-            //timKiem.ShowDialog();
-            //this.Show();
+            FormTimNhanVien timKiem = new FormTimNhanVien();
+            this.Hide();
+            timKiem.ShowDialog();
+            this.Show();
         }
 
         private void BtThoat_Click(object sender, EventArgs e)
